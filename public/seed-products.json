@@ -1,0 +1,427 @@
+[
+  {
+    "id": 1,
+    "name": "Elite Resistance Bands Set (5 pcs)",
+    "slug": "elite-resistance-bands-5pcs",
+    "price": "24.99",
+    "price_html": "<span class='price'><span class='amount'>$24.99</span></span>",
+    "featured": true,
+    "permalink": "https://your-wp-site.com/product/elite-resistance-bands-5pcs",
+    "short_description": "<p>Elite Resistance Bands Set (5 pcs) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1599058918146-77d3c1b2e52f",
+        "alt": "Elite Resistance Bands Set (5 pcs)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro Massage Gun \u2013 Deep Tissue",
+    "slug": "pro-massage-gun-deep-tissue",
+    "price": "79.00",
+    "price_html": "<span class='price'><span class='amount'>$79.00</span></span>",
+    "featured": true,
+    "permalink": "https://your-wp-site.com/product/pro-massage-gun-deep-tissue",
+    "short_description": "<p>Pro Massage Gun \u2013 Deep Tissue \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1617957771974-3c2ff3ed0f4f",
+        "alt": "Pro Massage Gun \u2013 Deep Tissue"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Speed Jump Rope (Adjustable Steel Cable)",
+    "slug": "speed-jump-rope-adjustable",
+    "price": "16.90",
+    "price_html": "<span class='price'><span class='amount'>$16.90</span></span>",
+    "featured": true,
+    "permalink": "https://your-wp-site.com/product/speed-jump-rope-adjustable",
+    "short_description": "<p>Speed Jump Rope (Adjustable Steel Cable) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1546484959-bb4a2c2a87bb",
+        "alt": "Speed Jump Rope (Adjustable Steel Cable)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Non-slip Yoga Mat (6mm) + Carry Strap",
+    "slug": "yoga-mat-6mm-non-slip",
+    "price": "21.50",
+    "price_html": "<span class='price'><span class='amount'>$21.50</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/yoga-mat-6mm-non-slip",
+    "short_description": "<p>Non-slip Yoga Mat (6mm) + Carry Strap \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b",
+        "alt": "Non-slip Yoga Mat (6mm) + Carry Strap"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Peanut Massage Roller (Mobility Tool)",
+    "slug": "peanut-massage-roller",
+    "price": "12.95",
+    "price_html": "<span class='price'><span class='amount'>$12.95</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/peanut-massage-roller",
+    "short_description": "<p>Peanut Massage Roller (Mobility Tool) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1518611012118-696072aa579a",
+        "alt": "Peanut Massage Roller (Mobility Tool)"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ab Wheel Roller + Knee Pad",
+    "slug": "ab-wheel-roller",
+    "price": "18.90",
+    "price_html": "<span class='price'><span class='amount'>$18.90</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/ab-wheel-roller",
+    "short_description": "<p>Ab Wheel Roller + Knee Pad \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1543975200-8e313fb04a59",
+        "alt": "Ab Wheel Roller + Knee Pad"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Adjustable Kettlebell Grip (Fits Dumbbells)",
+    "slug": "adjustable-kettlebell-grip",
+    "price": "27.00",
+    "price_html": "<span class='price'><span class='amount'>$27.00</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/adjustable-kettlebell-grip",
+    "short_description": "<p>Adjustable Kettlebell Grip (Fits Dumbbells) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1534367610401-9f5ed68180aa",
+        "alt": "Adjustable Kettlebell Grip (Fits Dumbbells)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Door Anchor + Handles Kit (Bands Accessory)",
+    "slug": "door-anchor-handles-kit",
+    "price": "10.50",
+    "price_html": "<span class='price'><span class='amount'>$10.50</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/door-anchor-handles-kit",
+    "short_description": "<p>Door Anchor + Handles Kit (Bands Accessory) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1",
+        "alt": "Door Anchor + Handles Kit (Bands Accessory)"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Smart Body Scale (Bluetooth App)",
+    "slug": "smart-body-scale-bluetooth",
+    "price": "34.90",
+    "price_html": "<span class='price'><span class='amount'>$34.90</span></span>",
+    "featured": true,
+    "permalink": "https://your-wp-site.com/product/smart-body-scale-bluetooth",
+    "short_description": "<p>Smart Body Scale (Bluetooth App) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1581594693700-7f0ae29b5d7b",
+        "alt": "Smart Body Scale (Bluetooth App)"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Compression Knee Sleeves (Pair)",
+    "slug": "compression-knee-sleeves",
+    "price": "19.90",
+    "price_html": "<span class='price'><span class='amount'>$19.90</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/compression-knee-sleeves",
+    "short_description": "<p>Compression Knee Sleeves (Pair) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1599058917761-4a24a65b0def",
+        "alt": "Compression Knee Sleeves (Pair)"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Weighted Jump Rope (1 lb)",
+    "slug": "weighted-jump-rope-1lb",
+    "price": "22.00",
+    "price_html": "<span class='price'><span class='amount'>$22.00</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/weighted-jump-rope-1lb",
+    "short_description": "<p>Weighted Jump Rope (1 lb) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2",
+        "alt": "Weighted Jump Rope (1 lb)"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Gymnastic Rings (Wood, with Straps)",
+    "slug": "gymnastic-rings-wood",
+    "price": "39.00",
+    "price_html": "<span class='price'><span class='amount'>$39.00</span></span>",
+    "featured": true,
+    "permalink": "https://your-wp-site.com/product/gymnastic-rings-wood",
+    "short_description": "<p>Gymnastic Rings (Wood, with Straps) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1605296867424-35fc25c9212a",
+        "alt": "Gymnastic Rings (Wood, with Straps)"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Foam Roller (High Density)",
+    "slug": "foam-roller-high-density",
+    "price": "17.50",
+    "price_html": "<span class='price'><span class='amount'>$17.50</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/foam-roller-high-density",
+    "short_description": "<p>Foam Roller (High Density) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1549068106-b024baf5062d",
+        "alt": "Foam Roller (High Density)"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Pull-Up Bar (Doorway, No Screws)",
+    "slug": "pull-up-bar-doorway",
+    "price": "35.00",
+    "price_html": "<span class='price'><span class='amount'>$35.00</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/pull-up-bar-doorway",
+    "short_description": "<p>Pull-Up Bar (Doorway, No Screws) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558617320-9f2f9f2f9f2f",
+        "alt": "Pull-Up Bar (Doorway, No Screws)"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Ankle/Wrist Weights (2\u00d71kg)",
+    "slug": "ankle-wrist-weights-2x1kg",
+    "price": "24.00",
+    "price_html": "<span class='price'><span class='amount'>$24.00</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/ankle-wrist-weights-2x1kg",
+    "short_description": "<p>Ankle/Wrist Weights (2\u00d71kg) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1607968565040-c9f4d0469a79",
+        "alt": "Ankle/Wrist Weights (2\u00d71kg)"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Hip Resistance Bands (Set of 3)",
+    "slug": "hip-resistance-bands-set",
+    "price": "15.90",
+    "price_html": "<span class='price'><span class='amount'>$15.90</span></span>",
+    "featured": true,
+    "permalink": "https://your-wp-site.com/product/hip-resistance-bands-set",
+    "short_description": "<p>Hip Resistance Bands (Set of 3) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1534361960057-19889db9621e",
+        "alt": "Hip Resistance Bands (Set of 3)"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Barbell Pad (Squat & Hip Thrust)",
+    "slug": "barbell-pad-squat",
+    "price": "13.90",
+    "price_html": "<span class='price'><span class='amount'>$13.90</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/barbell-pad-squat",
+    "short_description": "<p>Barbell Pad (Squat & Hip Thrust) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438",
+        "alt": "Barbell Pad (Squat & Hip Thrust)"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Liquid Chalk (Grip Enhancer)",
+    "slug": "liquid-chalk-grip",
+    "price": "9.90",
+    "price_html": "<span class='price'><span class='amount'>$9.90</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/liquid-chalk-grip",
+    "short_description": "<p>Liquid Chalk (Grip Enhancer) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1585776245991-c3b3c3b3b3b3",
+        "alt": "Liquid Chalk (Grip Enhancer)"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Wrist Straps (Lifting Support)",
+    "slug": "wrist-straps-lifting",
+    "price": "11.90",
+    "price_html": "<span class='price'><span class='amount'>$11.90</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/wrist-straps-lifting",
+    "short_description": "<p>Wrist Straps (Lifting Support) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1542766788-3a2234e7f473",
+        "alt": "Wrist Straps (Lifting Support)"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Weightlifting Belt (Leather)",
+    "slug": "weightlifting-belt-leather",
+    "price": "44.00",
+    "price_html": "<span class='price'><span class='amount'>$44.00</span></span>",
+    "featured": true,
+    "permalink": "https://your-wp-site.com/product/weightlifting-belt-leather",
+    "short_description": "<p>Weightlifting Belt (Leather) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1526403228571-3e33d1f7b5b0",
+        "alt": "Weightlifting Belt (Leather)"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Adjustable Dumbbells (Pair, 2\u201324kg)",
+    "slug": "adjustable-dumbbells-pair",
+    "price": "189.00",
+    "price_html": "<span class='price'><span class='amount'>$189.00</span></span>",
+    "featured": true,
+    "permalink": "https://your-wp-site.com/product/adjustable-dumbbells-pair",
+    "short_description": "<p>Adjustable Dumbbells (Pair, 2\u201324kg) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1593079831268-3381b0db4a77",
+        "alt": "Adjustable Dumbbells (Pair, 2\u201324kg)"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Mini Resistance Bands (Set of 5)",
+    "slug": "mini-resistance-bands-set",
+    "price": "12.50",
+    "price_html": "<span class='price'><span class='amount'>$12.50</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/mini-resistance-bands-set",
+    "short_description": "<p>Mini Resistance Bands (Set of 5) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1517832207067-4db24a2ae47c",
+        "alt": "Mini Resistance Bands (Set of 5)"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Yoga Blocks (Set of 2, EVA)",
+    "slug": "yoga-blocks-set-2",
+    "price": "14.90",
+    "price_html": "<span class='price'><span class='amount'>$14.90</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/yoga-blocks-set-2",
+    "short_description": "<p>Yoga Blocks (Set of 2, EVA) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1599058917651-1d1c1d1c1d1c",
+        "alt": "Yoga Blocks (Set of 2, EVA)"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Lacrosse Massage Ball",
+    "slug": "lacrosse-massage-ball",
+    "price": "7.90",
+    "price_html": "<span class='price'><span class='amount'>$7.90</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/lacrosse-massage-ball",
+    "short_description": "<p>Lacrosse Massage Ball \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1544025162-d76694265947",
+        "alt": "Lacrosse Massage Ball"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Hydration Bottle (1L, BPA-free)",
+    "slug": "hydration-bottle-1l",
+    "price": "11.50",
+    "price_html": "<span class='price'><span class='amount'>$11.50</span></span>",
+    "featured": false,
+    "permalink": "https://your-wp-site.com/product/hydration-bottle-1l",
+    "short_description": "<p>Hydration Bottle (1L, BPA-free) \u2014 premium quality for home & gym training.</p>",
+    "description": "<p>Durable materials. Designed for consistent, year-round training. 30-day returns.</p>",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e",
+        "alt": "Hydration Bottle (1L, BPA-free)"
+      }
+    ]
+  }
+]
