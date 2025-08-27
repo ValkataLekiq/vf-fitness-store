@@ -2,7 +2,7 @@
 const nextConfig = {
   images: {
     domains: [
-      'gold-magpie-875699.hostingersite.com', // твоят WordPress домейн
+      'gold-magpie-875699.hostingersite.com',
       'images.unsplash.com',
     ],
   },
